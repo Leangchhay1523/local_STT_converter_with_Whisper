@@ -34,9 +34,9 @@
 A simple local speech-to-text converter using [Whisper AI Model](https://github.com/openai/whisper) which is an open-source model developed by [OpenAI](https://openai.com/). <br>This converter allows you to upload audio files and get the transcription text in the webpage.
 
 ### Screenshot
-- **Landing Page**
+- Landing Page
 <img src="assets/demo.png">
-- **Transcription**
+- Transcription
 <img src="assets/transcription.png">
 
 ### Built with
