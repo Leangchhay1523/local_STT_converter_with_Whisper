@@ -4,14 +4,29 @@
 <details>
     <summary>Table of Contents</summary>
     <ul>
-        <li>
-            <a href="#about-the-project">About the Project</a>
-        </li>
+        <li><a href="#about-the-project">About the Project</a></li>
         <ul>
-            <li>
-                <a href="#built-with">Built with</a>
-            </li>
+            <li><a href="#screenshot">Screenshot</a></li>
+            <li><a href="#built-with">Built with</a></li>
         </ul>
+        <li><a href="#getting-started">Getting Started</a></li>
+        <ul>
+            <li><a href="#project-structure">Project Structure</a></li>
+            <li><a href="#configuration">Configuration</a></li>
+            <uk>
+                <li><a href="#python-version">Python Version</a></li>
+                <li><a href="#whisper-model">Whisper Model</a></li>
+            </uk>
+            <li><a href="#installation">Installation</a></li>
+            <ul>
+                <li><a href="#setup-environment-for-whisper-ai-model">Setup Environment for Whisper AI Model</a></li>
+                <li><a href="#project-installation-and-testing">Project Installation and Testing</a></li>
+            </ul>
+        </ul>
+        <li><a href="#usage">Usage</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="#acknowledgements">Acknowledgements</a></li>
+        <li><a href="#license">LICENSE</a></li>
     </ul>
 </details>
 
@@ -130,7 +145,9 @@ python app.py
 5. **Access Application**
 Search for `http://127.0.0.1:5500/` in your browser.
 
-**Note**: Do not use `Live Server` extension in VSCode to run HTML file.
+**Note**: 
+- Do not use `Live Server` extension in VSCode to run HTML file.
+- Dont't forget to change the template of `index.html` in `templates` to `HTML`.
 
 ## Usage
 1. **Upload Audio File**
