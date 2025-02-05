@@ -82,11 +82,11 @@ model = whisper.load_model("tiny")
 Check out: [Whisper Repo](https://github.com/openai/whisper)
 ### Installation
 #### Setup Environment for Whisper AI Model
-1. **Python3.9**: Perform Whisper program
-Add Python to **path** after installing
+1. **Python3.9**: Perform Whisper program<br>
+Add Python to **path** after installing<br>
 Download: [Python](https://www.python.org/downloads/)
 
-2. **Git**: For install Whisper from GitHub Repository
+2. **Git**: For install Whisper from GitHub Repository<br>
 Download: [Git](https://git-scm.com/)
 
 3. **Whisper**: Whisper has not site to install, all files are store in GitHub repository . So, you need to install it from GitHub by running the following command
@@ -94,7 +94,7 @@ Download: [Git](https://git-scm.com/)
 pip instlal git+https://github.com/openai/whisper.git
 ```
 
-4. **Rust**: Use for certain dependencies which is Pytorch that is required for Whisper
+4. **Rust**: Use for certain dependencies which is Pytorch that is required for Whisper<br>
 Download: [Rust](https://www.rust-lang.org/)
 
 5. **Pytorch**: A deep learning library for model execution. Version recommend for the project is 2.6.0
@@ -103,7 +103,7 @@ pip install torch==2.6.0
 ```
 Or you can install it from [Pytorch](https://pytorch.org/). Choose an appropriate configuration then copy the command to run in terminal.
 
-6. **FFmpeg**: Convert audio into format that is needed for Whisper
+6. **FFmpeg**: Convert audio into format that is needed for Whisper<br>
 Download: [FFmpeg](https://www.ffmpeg.org/)
 
 If you want to run Whisper on your local system. Install the specified components. Then run this code in Python File
