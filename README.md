@@ -36,6 +36,7 @@ A simple local speech-to-text converter using [Whisper AI Model](https://github.
 ### Screenshot
 - Landing Page
 <img src="assets/demo.png">
+<br>
 - Transcription
 <img src="assets/transcription.png">
 
